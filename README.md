@@ -1,3 +1,3 @@
-### Hi I am Xusan Choriyev  <img src="https://media2.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif?cid=ecf05e47qjy2ia7ghled85bq5n9cc8splj4xsnmgwmogzo9f&rid=giphy.gif&ct=s"></img>
+### Hi, I am Xusan Choriyev  <img src="https://giphy.com/gifs/hello-wave-hand-gM5qFksULw54NMWyry?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term="></img>
 
 
