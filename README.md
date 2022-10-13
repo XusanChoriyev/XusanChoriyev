@@ -10,8 +10,13 @@ I am a skillful and experienced Front-End developer
 <code> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" width="30px"></code>
 <code> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30px"></code>
 <code> <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" width="40px"></code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="40px"></code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="50px"></code>
 <code> <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" width="50px"></code>
+
+## 🏬 &nbsp; Education:
+University of World Economy and Diplomacy
+
+📍 My current location: Uzbekistan, Tashkent
 
 
 
