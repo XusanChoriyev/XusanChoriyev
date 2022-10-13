@@ -2,7 +2,7 @@
 I am a skillful and experienced Front-End developer
 
 ## Tools and technologies I can work with:
-<code> <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8a/HTML5.png](https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg)"><code/
+<code> <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width="30px"><code>/
 
 
 
