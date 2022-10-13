@@ -18,7 +18,7 @@ University of World Economy and Diplomacy
 
 📍 My current location: Uzbekistan, Tashkent
 
-##✅ Contact Details: <br/>
+## ✅ Contact Details: <br/>
 📱 Telephone number: +998900947671 <br/>
 📬 Email : choriyevx2@gmail.com    <br/>
 <code> <img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="30px"></code> : @XusanChoriyev
