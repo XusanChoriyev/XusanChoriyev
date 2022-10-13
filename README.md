@@ -8,6 +8,11 @@ I am a skillful and experienced Front-End developer
 <code> <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" width="30px"></code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="30px"></code>
 <code> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" width="30px"></code>
+<code> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30px"></code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="30px"></code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="30px"></code>
+<code> <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" width="30px"></code>
+
 
 
 
